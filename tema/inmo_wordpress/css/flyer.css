@@ -1,0 +1,347 @@
+/*
+COLORES
+PRIMARIO: #3F51B5;
+SECUNDARIO: #7085f9;
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	font-family: 'Open Sans', sans-serif;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+		.contenedor_izq{
+			background: white;
+			width: 61%;
+			height: 800px;
+			float: left;
+
+		}
+
+			.contenedor_logo{
+				width: 100%;
+				height: 150px;
+				background: #3F51B5;
+				margin-bottom: 7px;
+				text-align: center;
+			}
+
+				.logo{
+					padding-top: 20px;
+					width: 100px;
+				}
+
+				.contenedor_logo h1 {
+				    color: white;
+				    font-weight: normal;
+				    font-size: 2em;
+				}
+
+			.contenedor_img_principal{
+				text-align: center;
+				width: 100%;
+				height: 500px;
+				background: white;
+				margin-bottom: 7px;
+				overflow: hidden;
+			}
+
+				.contenedor_img_principal img{
+					height:  100%;
+					height: 500px;
+					object-fit: cover;				
+				}
+
+			.contenedor_titulo{
+				width: 100%;
+				height: 130px;
+				background: #7085f9;
+				margin-bottom: 7px;
+			}
+
+				.contenedor_titulo .grande{
+					padding-top: 36px;
+					font-weight: bold;
+					text-transform: uppercase;
+					text-align: center;
+					color: white;
+					font-size: 2.1em;
+				}
+
+				.contenedor_titulo .small {
+					font-weight: 400;
+					text-transform: uppercase;
+					text-align: center;
+					color: white;
+					font-size: 1.5em;
+				}
+
+				.contenedor_titulo .small a {
+					text-decoration: none;
+					color: white;
+					
+				}
+
+			.contenedor_texto{
+				width: 100%;
+				height: 320px;
+				background: white;
+			}
+
+				.contenedor_texto .titular{
+					color: black;
+						text-transform: uppercase;
+						font-size: 1.5em;
+						font-weight: bold;
+						padding-top: 20px;
+						padding-left: 20px;
+						padding-bottom: 10px;
+				}
+
+				.contenedor_texto .texto{
+					color: grey;
+				    height: 139px;
+				    overflow: hidden;
+				    padding-left: 20px;
+				    line-height: 20px;	
+				}
+
+				.contenedor_texto p:nth-child(3){
+					position: absolute;
+				    top: 1043px;
+				    padding-left: 20px;
+				    font-weight: bold;
+				}
+
+		.contenedor_der{
+			background: white;
+			width: 38%;
+			height: 800px;
+			float: left;
+			border-left: 7px solid white;
+			
+		}
+
+			.contenedor_img_2{
+				width: 100%;
+				height: 214px;
+				background: white;
+				margin-bottom: 7px;
+				overflow: hidden
+			}
+
+			.contenedor_img_2 img{
+				object-fit: cover;
+				width: 100%;
+				height: 214px;
+			}
+
+			.contenedor_caracteristicas{
+				width: 100%;
+				height: 214px;
+				background: #E8E8E8;
+				overflow: hidden;
+				margin-bottom: 7px;
+			}
+
+				.contenedor_caracteristicas .titular{
+					color: black;
+					text-transform: uppercase;
+					font-size: 1.5em;
+					font-weight: bold;
+					padding-top: 10px;
+					padding-left: 20px;
+					padding-bottom: 10px;
+				}
+
+				.contenedor_caracteristicas ul {
+				    list-style: none; 
+				    padding: 0;
+				    margin: 0;
+				}
+
+				li { 
+				    padding-left: 20px; 
+				    color: grey;
+				}
+
+				li:before {
+				    content: "+"; 
+				    padding-right: 8px;
+				    font-size: 1.2em;
+				    font-weight: bold;
+				    color: #a28bc6; 
+				}
+
+				li a{
+					color: grey;
+					text-decoration: none;
+				}
+
+			.contenedor_img_3{
+				width: 100%;
+				height: 215px;
+				background: white;
+				margin-bottom: 7px;
+				overflow: hidden
+			}
+
+			.contenedor_img_3 img{
+				object-fit: cover;
+				width: 100%;
+				height: 215px;
+			}
+
+			.contenedor_precio{
+				width: 100%;
+				height: 130px;
+				background: #7085f9;
+				margin-bottom: 7px;
+			}
+
+				.contenedor_precio .grande{
+					padding-top: 36px;
+					font-weight: 400;
+					text-transform: uppercase;
+					text-align: center;
+					color: white;
+					font-size: 1.2em;
+				}
+
+				.contenedor_precio .small{
+					font-weight: bold;
+					text-transform: uppercase;
+					text-align: center;
+					color: white;
+					font-size: 2.1em;
+				}
+
+			.contenedor_contacto{
+				width: 100%;
+				height: 320px;
+				background: #E8E8E8;
+			}
+
+				.contenedor_contacto .contacto{
+					color: black;
+					text-transform: uppercase;
+					font-size: 1.5em;
+					font-weight: bold;
+					padding-top: 100px;
+					padding-left: 20px;
+					padding-bottom: 10px;
+				}
+
+				.contenedor_contacto .telefono{
+					color: #3F51B5;
+					font-size: 1em;
+					font-weight: bold;
+					padding-left: 20px;
+					padding-bottom: 10px;
+				}
+	
+				.contenedor_contacto .direccion, .contenedor_contacto .correo, .contenedor_contacto .web{
+					color: grey;
+					font-size: 0.8em;
+					font-weight: 400;
+					padding-left: 20px;
+					padding-bottom: 10px;
+				}
+
+				.contenedor_contacto span{
+					font-weight: bold;
+					color: black;
+				}
+			
+			img{
+				height: 100%;
+				width: 100%;
+				background-position: center;
+				background-size: cover;
+				
+			}
+
+			img#certificado {
+			    position: absolute;
+			    top: 1002px;
+			    left: 380px;
+			    width: 82px;
+			    height: 99px;
+			}
+/*-----------------FICHA------------------------------*/
+.ficha h1{
+	text-align: center;
+	font-size: 2em;
+	background: yellow;
+	width: 100%;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+.ficha a{
+	text-decoration: none;
+	color:black;
+}
+.ficha table{
+	margin-top:27px;
+	margin-left: 40px;
+}
+
+.ficha table{
+	font-size: 1.5em;
+	border-collapse: initial;
+	border-spacing: 22px;
+}
+
+		@media print{
+
+			.top{display: none;}
+
+			#wpadminbar{
+				display: none;
+			}
+			body{
+				background: white;
+			}
+			@page{
+				size: A4 portrait; 
+  				margin: 0;
+				}
+		}
