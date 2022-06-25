@@ -1,0 +1,296 @@
+table{
+    margin-top: 20px;
+}
+
+.emergente{
+                display: block;
+                width: 500px;
+                height: 278px;
+                border-radius: 3px;
+                position: fixed;
+                background: white;
+                margin-right: auto;
+                margin-left: auto;
+                right: 0px;
+                left: 0px;
+                margin-top: auto;
+                margin-bottom: auto;
+                top: 0px;
+                bottom: 0px;
+                box-shadow: 0px 0px 5px grey;
+                text-align: center;
+}
+
+.emergente .parrafo1{
+    padding: 18px 40px 10px;
+    text-align: left;
+
+}
+
+.emergente .parrafo1 strong{
+    font-weight: bold;
+}
+
+.emergente .parrafo2{
+    padding: 0px 40px 17px;
+
+}
+
+.emergente .advertencia{
+    visibility:hidden;
+    color: #ef1c1c;
+    font-style: italic;
+}
+    
+.datos_formulario:hover{
+    background: #e9eaea;
+}
+.formulario{
+    background: #f1f2f5;
+    width: 100%;
+    border: 1px solid lightgray;
+    box-shadow: 0px 0px 5px lightgrey;
+    margin: 20px auto;
+}
+
+.barra_formulario{
+    border-bottom: 1px solid lightgray;
+    height: 45px; 
+    text-transform: uppercase;  
+}
+
+.barra_formulario p {
+    font-weight: bold;
+    color: #2e3139;
+    float: left;
+    margin-left: 17px!important;
+}
+
+.barra_formulario .add {
+    float: right;
+    background: #0073aa;
+    width: 45px;
+    height: 33px;
+    color: white;
+    font-size: 24px;
+    font-weight: lighter;
+    padding-top: 12px;
+    text-align: center;
+    border-left: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.barra_formulario .filtrar{
+    float: right;
+    background-image: url('../svg/filtrar.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 15px;
+    width: 45px;
+    height: 45px;
+    border-left: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.barra_formulario .csv{
+    float: right;
+    background-image: url('../svg/csv.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 31px;
+    width: 45px;
+    height: 45px;
+    border-left: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.filtro_marca{
+    width: 188px;
+    height: 100%;
+    float: left;
+}
+
+p.nombre.filtro{
+    margin-left: 19px;
+}
+
+.barra_filtrar_formulario{
+    height: 0px;
+    background: #f1f2f5;
+    position: relative;
+    transition: height 1s;
+    overflow: hidden;
+}
+
+.boton_filtrar{
+    background: #5e9bf9;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-top: 31px;
+    padding: 10px 21px;
+    margin-left: calc(6% - 5px);
+}
+
+.barra_formulario .delete_agentes{
+    float: right;
+    background-image: url('../svg/delete.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 15px;
+    width: 45px;
+    height: 45px;
+    border-left: 1px solid lightgray;
+    cursor: pointer;
+}
+
+select {
+    width: 140px;
+    margin-left: 19px;
+    padding: 5px;
+    color: #2e3139;
+    font-weight: bold;
+    border-radius: 3px;
+    border-color: lightgray;
+}
+
+.barra_informacion_formulario{
+    border-bottom: 1px solid lightgray;
+    background: #f1f2f5;
+    height: 45px;
+    overflow: hidden;
+}
+
+.checkbox{
+    float: left;
+    margin:15px!important;
+    width: 16px;
+    height: 16px;
+}
+
+.formulario .nombre{
+    float: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #9ca1b0;
+    font-size: 12px;
+    height: 19px;
+    overflow: hidden;
+}
+
+.formulario .foto{
+    width: 135px;
+}
+
+.area_datos_formulario, .area_datos_formulario_sub, .area_datos_formulario_productos{
+    background: white;
+    height: 100%;
+    width: 100%;
+
+}
+
+.datos_formulario {
+    display: block;
+    width: 100%;
+    height: 39px;
+    border-bottom: 1px solid #efefef;
+    cursor: pointer;
+    position: relative;
+    background: white;
+    color:black;    
+    overflow: hidden;
+   
+}
+
+.datos_formulario .nombre{
+	 text-transform: initial!important;
+    font-weight: normal!important;
+    color: black!important;
+}
+.formulario .datos_formulario .input_nombre {
+    font-size: 15px;
+    margin-top: 12px;
+    margin-left: 25px;
+    border: none;
+    color: #2e3139;
+    text-transform: inherit;
+    font-weight: 500;
+    width: 200px; 
+}
+
+.abrir{
+    height: 90px!important;
+}
+
+.boton{
+    bottom: 0px;
+    position: fixed;
+    margin-left: -135px!important;
+}
+
+.formulario .nombre.correo img{
+    width: 34px;
+    height: 34px;
+    border-radius: 40px;
+}
+.formulario .nombre.correo{
+    width: 90px;
+    text-align: center;
+    height: 34px;
+    position: relative;
+    top: -9px;
+    
+}
+
+.formulario .nombre.modalidad{
+    width: 270px;
+    
+}
+
+.formulario .nombre.localidad{
+    width: 150px;
+}
+.formulario .nombre.tipo{
+    width: 100px;
+}
+
+.formulario .nombre.habitaciones{
+    width: 100px;
+}
+
+.formulario .nombre.precio{
+    width: 85px;
+
+}
+
+.formulario .nombre.caracteristicas{
+    width: 150px;
+}
+
+
+#areaContenido .datos_formulario p{
+    margin-bottom: 0px;
+    font-weight: normal;
+    color: #2e3139;
+    text-transform: initial;
+    font-size: 14px;
+}
+@media screen and (max-width: 782px){
+	input[type=checkbox] {
+    height: 16px!important;
+    width: 16px!important;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .emergente{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 350px){
+    .emergente{
+        height: 310px;
+    }
+}
