@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<inmo_wordpress>
+	<codigo_lang>EN</codigo_lang>
+    <inicio>Home</inicio>
+    <blog>Blog</blog>
+    <agentes>Agents</agentes>
+    <contacto>Contact</contacto>
+    <nosotros>About us</nosotros>
+    <aviso_legal>Legal notice</aviso_legal>
+    <politica_cookies>Cookies policy</politica_cookies>
+    <politica_privacidad>Privacy policy</politica_privacidad>
+    <encuentra_comprar>Find your house</encuentra_comprar>
+    <encuentra_alquilar>Find your new rental</encuentra_alquilar>
+    <unete>Sell your property</unete>
+    <comprar>Buy</comprar>
+    <alquilar>Rent</alquilar>
+    <vender>Sell</vender>
+    <buscar>Search</buscar>
+    <poblacion>Location</poblacion>
+    <habitaciones>Rooms</habitaciones>
+    <precio>Price</precio>
+    <todas>All</todas>
+    <indiferente>Indifferent</indiferente>
+    <descripcion_breve>Brief description</descripcion_breve>
+    <descripcion>Brief description of the benefits that a future salesman would have</descripcion>
+    <contactar>Contact</contactar>
+    <venta_casa>Houses for sale</venta_casa>
+    <venta_piso>Flats for sale</venta_piso>
+    <venta_apartamento>Apartments for sale</venta_apartamento>
+    <venta_local>Commercial property for sale</venta_local>
+    <venta_terreno>Land for sale</venta_terreno>
+    <alquiler_casa>Houses for rent</alquiler_casa>
+    <alquiler_piso>Flats for rent</alquiler_piso>
+    <alquiler_apartamento>Apartments for rent</alquiler_apartamento>
+    <alquiler_local>Commercial property for rent</alquiler_local>
+    <mensaje_cookies>This website uses cookies to give a better user experience. If you continue to use this site we will assume that you agree.</mensaje_cookies>
+    <aceptar>Accept</aceptar>
+    <saber_mas>More information</saber_mas>
+    <programado>A website designed and programmed by</programado>
+    <derechos>All rights reserved</derechos>
+    <texto_privacidad>
+        <![CDATA[
+                <div>
+                    <h2>Privacy Policy</h2>
+                </div>
+
+                <h3>Lorem ipsum dolor sit amet</h3>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+                <h3>Lorem ipsum dolor sit amet</h3>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+                <h3>Lorem ipsum dolor sit amet</h3>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+        ]]>               
+    </texto_privacidad>  
+    <texto_cookies>
+        <![CDATA[
+        <div>
+            <h2>Cookies Policy</h2>
+        </div>
+
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <ul><li><p><span>Lorem ipsum:</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim eius eligendi quae magni repellat, deserunt maxime harum voluptates voluptatibus nisi fuga nobis dolorem. Velit officiis officia, dolor corporis architecto temporibus!</p></li>
+        <li><p><span>Lorem ipsum:</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim eius eligendi quae magni repellat, deserunt maxime harum voluptates voluptatibus nisi fuga nobis dolorem. Velit officiis officia, dolor corporis architecto temporibus!</p></li><li><p><span>Lorem ipsum:</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim eius eligendi quae magni repellat, deserunt maxime harum voluptates voluptatibus nisi fuga nobis dolorem. Velit officiis officia, dolor corporis architecto temporibus!</p></li></ul>
+
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+        ]]>               
+    </texto_cookies> 
+    <texto_aviso>
+        <![CDATA[
+        <div>
+            <h2>Legal Notice</h2>
+        </div>
+
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+        <h3>Lorem ipsum dolor sit amet</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In eveniet iste explicabo quibusdam, a. Voluptate, fuga quod soluta alias, recusandae ullam accusamus quibusdam error similique exercitationem harum nam doloribus animi.</p>
+        ]]>               
+    </texto_aviso> 
+    <texto_nosotros>
+        <![CDATA[
+        <div>
+            <h2>About<span></span> Us</h2>
+        </div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nulla vel, inventore dolores repudiandae eligendi? Maiores asperiores unde culpa repellendus nemo similique magnam, alias facere hic iste, reiciendis debitis, consequuntur.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dicta quaerat, fugit neque, et maiores, distinctio delectus ducimus perferendis nemo aliquam autem nobis nulla quisquam? Voluptates ex, dolor dignissimos quaerat.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut facilis placeat quo ipsum animi maxime quod amet, cumque, voluptatibus laborum ducimus ipsa odit officia reiciendis. Impedit quo porro, autem asperiores.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae corporis ex dolores delectus quam, voluptatum atque magni est facilis laudantium tempora repellendus id placeat, molestiae molestias culpa praesentium veritatis. Iure.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque doloribus, quasi delectus enim a blanditiis sit inventore saepe temporibus, voluptatem incidunt deleniti distinctio alias facilis itaque quos officia nam qui!</p>
+        ]]>               
+    </texto_nosotros>
+    <texto_contacto>
+        <nombre>Name</nombre>
+        <telefono>Phone</telefono>
+        <correo>Email</correo>
+        <asunto>Subject</asunto>
+        <mensaje>Message</mensaje>
+        <enviar>Send</enviar>
+    </texto_contacto> 
+    <texto_agentes>
+        <inmueble>Property</inmueble>
+        <inmuebles>Properties</inmuebles>
+        <venta>Sales</venta>
+        <ventas>Sales</ventas>
+    </texto_agentes>
+    <single_agentes>
+        <agente>Agent</agente>
+        <perfil>Profile</perfil>
+        <inmuebles_gestionados>Managed properties</inmuebles_gestionados>
+        <inmuebles_vendidos>Properties sold</inmuebles_vendidos>
+        <inmueble>PROPERTY</inmueble>
+        <precio>PRICE</precio>
+        <contactar_con>Contact with</contactar_con>
+        <llamar>Call</llamar>
+        <contactar>Contact</contactar>
+        <aviso_submit>By contacting you are accepting our legal notice and privacy policy.</aviso_submit>
+    </single_agentes>
+    <pagina_blog>
+        <publicado>Posted by</publicado>
+        <el>on</el>
+        <leer_mas>Read more</leer_mas>
+        <pagina>Page</pagina>
+        <de>of </de>
+    </pagina_blog> 
+    <single_blog>
+        <volver_blog>BACK TO THE BLOG</volver_blog>
+        <post_relacionados>Related posts</post_relacionados>
+    </single_blog>
+    <pagina_buscar>
+        <propiedad_encontrada>Property found</propiedad_encontrada>
+        <propiedades_encontradas>Properties found</propiedades_encontradas>
+        <quitar_filtros>Remove filters</quitar_filtros>
+        <guardar_busqueda><![CDATA[Save this search</span>  to be notified when new properties are published.]]></guardar_busqueda>
+        <tipo>Type</tipo>
+        <casa>House</casa>
+        <chalet>Chalet</chalet>
+        <piso>Flat</piso>
+        <apartamento>Apartment</apartamento>
+        <local>Commercial property</local>
+        <edificio>Building</edificio>
+        <garaje>Garage</garaje>
+        <terreno>Land</terreno>
+        <otros>Others</otros>
+        <habitaciones>Rooms</habitaciones>
+        <habitacion>Room</habitacion>
+        <caracteristicas>Features</caracteristicas>
+        <notificaciones>Notifications</notificaciones>
+        <recibir_aviso>Receive announcements of new ads that meet the selected filters</recibir_aviso>
+        <donde>Where do you want to receive them?</donde>
+        <ejemplo>example@email.uk</ejemplo>
+        <guardar>Save</guardar>
+        <nuestra_politica><![CDATA[Our <a href="privacidad">privacy policy</a>]]></nuestra_politica>
+        <hab> Rooms</hab>
+        <hasta>To</hasta>
+        <desde>From</desde>
+        <mayor_precio>Higher Price</mayor_precio>
+        <menor_precio>Less Price</menor_precio>
+        <venta>Sell</venta>
+        <alquiler>Rent</alquiler>
+        <bano>Bathroom</bano>
+        <banos>Bathrooms</banos>
+        <nivel>Level</nivel>
+        <todos_venta> All properties for sale</todos_venta>
+        <filtro_venta>Properties for sale that ...</filtro_venta>
+        <todos_alquiler> All properties for rent</todos_alquiler>
+        <filtro_alquiler>Properties for rent that ...</filtro_alquiler>
+        <oportunidad>Opportunity</oportunidad>
+    </pagina_buscar>
+    <single_inmueble>
+        <volver>BACK</volver>
+        <interesado>I am interested in the property reference:</interesado>
+        <referencia>Reference:</referencia>
+        <detalles>Details</detalles>
+        <construccion>Year of construction:</construccion>
+        <estado>State:</estado>
+        <reformado>Reformed</reformado>
+        <nuevo>New</nuevo>
+        <reformar>To reform</reformar>
+        <seminuevo>Pre-owned</seminuevo>
+        <superficie>Useful surface:</superficie>
+        <superficie_construido>Built:</superficie_construido>
+        <certificado>Energy certificate:</certificado>
+        <precio_metro>Price per square meter:</precio_metro>
+        <mensualidad>Estimated monthly payment</mensualidad>
+        <valor_inmueble>Property value:</valor_inmueble>
+        <pago_inicial>Initial payment</pago_inicial>
+        <interes>Interest rate</interes>
+        <duracion>Duration (years)</duracion>
+        <calcular>Calculate</calcular>
+        <pago_mensualidad>Monthly estimated payment:</pago_mensualidad>
+        <esta_estimacion>*This estimate does not take into account bank, registry, notarial or other expenses derived from the granting of the mortgage.</esta_estimacion>
+        <abrir_mapa>Open map</abrir_mapa>
+        <ocultar>Hide</ocultar>
+        <descripcion>Description:</descripcion>
+    </single_inmueble>     
+</inmo_wordpress>
